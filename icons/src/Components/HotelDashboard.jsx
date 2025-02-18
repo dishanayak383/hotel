@@ -7,7 +7,7 @@ const HotelDashboard = () => {
       {/* Header Section */}
       <div className="header">
         <div className="user-info">
-          <img className="user-avatar" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoana-barros-magalh%25C3%25A3es-0b5007aa&psig=AOvVaw3KZpfT7pZKj9uiKQJR6LTT&ust=1739941358857000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjz8-y4zIsDFQAAAAAdAAAAABAE" alt="User Avatar" />
+          <img className="user-avatar" src="https://media.licdn.com/dms/image/v2/D4E03AQHdHHV9bfJ2JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687267664513?e=2147483647&v=beta&t=Znl3Btuj2e2N6jKDm9m6hpN55HrzUPH2n4QeOfkv_0Y" alt="User Avatar" />
           <div>
             <h3>Joana Barros</h3>
             <p>Hotel Guest</p>
