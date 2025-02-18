@@ -9,8 +9,8 @@ const HotelDashboard = () => {
         <div className="user-info">
           <img className="user-avatar" src="https://media.licdn.com/dms/image/v2/D4E03AQHdHHV9bfJ2JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687267664513?e=2147483647&v=beta&t=Znl3Btuj2e2N6jKDm9m6hpN55HrzUPH2n4QeOfkv_0Y" alt="User Avatar" />
           <div>
-            <h3>Joana Barros</h3>
-            <p>Hotel Guest</p>
+            <h2>Joana Barros</h2>
+            <h3>Hotel Guest</h3>
           </div>
         </div>
         <div className="lock-icon">🔒</div>
